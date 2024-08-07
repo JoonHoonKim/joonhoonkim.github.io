@@ -34,10 +34,10 @@ github_username:  joonhoonkim
 # googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,13 +52,15 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile_img.PNG
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  3년간 AI 환경에서 일해왔으며 python, pyTorch, opencv를 활용하여 Vision AI 프로젝트를 주로 수행해왔습니다. clasification과
+  object detection, segmentation 등 다양한 프로젝트를 수행한 경험이 있습니다.
+  
+  첫 회사가 SI 업체이다 보니 자연스럽게 ***고객이 필요로 하는*** 프로젝트가 중요하다고 느꼈습니다. 고객 입장에서 필요한 기능과
+  알고리즘을 고민하는 개발자입니다.
+  
+  데이터 수집부터 보고서 작성까지 프로젝트의 A to Z를 수행하였습니다.
+  
+  현재는 Gen AI 업무를 수행하면서 다양한 AI 관련 프로젝트를 수행하고 있습니다.
 
 content:
   - title: Projects # Title for the section

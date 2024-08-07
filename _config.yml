@@ -52,10 +52,10 @@ github_username:  joonhoonkim
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile_img.PNG
 about_content: | # this will include new lines to allow paragraphs
-  3년간 AI 환경에서 일해왔으며 python, pyTorch, opencv를 활용하여 Vision AI 프로젝트를 주로 수행해왔습니다. clasification과
-  object detection, segmentation 등 다양한 프로젝트를 수행한 경험이 있습니다.
+  3년간 AI 환경에서 일해왔으며 python, pyTorch, opencv를 활용하여 Vision AI 프로젝트를 주로 수행해왔습니다. **clasification과
+  object detection, segmentation** 등 다양한 프로젝트를 수행한 경험이 있습니다.
   
-  첫 회사가 SI 업체이다 보니 자연스럽게 ***고객이 필요로 하는*** 프로젝트가 중요하다고 느꼈습니다. 고객 입장에서 필요한 기능과
+  첫 회사가 SI 업체이다 보니 자연스럽게 `고객이 필요로 하는` 프로젝트가 중요하다고 느꼈습니다. 고객 입장에서 필요한 기능과
   알고리즘을 고민하는 개발자입니다.
   
   데이터 수집부터 보고서 작성까지 프로젝트의 A to Z를 수행하였습니다.
@@ -63,26 +63,37 @@ about_content: | # this will include new lines to allow paragraphs
   현재는 Gen AI 업무를 수행하면서 다양한 AI 관련 프로젝트를 수행하고 있습니다.
 
 content:
-  - title: Projects # Title for the section
+  - title: 경력 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: 무브멘토 (movemento)
+        sub_title: AI Engineer
+        caption: 2023.09 ~ Present
+        link: http://movemento.co.kr
         quote: >
-          Short overview of the project (optional)
+          가상 모델 swapping 서비스 및 커머스 프로젝트 PM
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          - comfyUI와 MIdjourny를 활용하서 가상 모델 생성
+          - 촬영한 모델을 가상 모델로 swapping(촬영당 모델비 절감 효과)
+          
+          - 커머스 프로젝트 QA 및 PM 담당
+
+      - layout: left
+        border: weak
+        title: 넥스리얼 (nexreal)
+        sub_title: AI Engineer
+        caption: 2021.01 ~ 2023.08
+        link: www.nexreal.com
+        quote: >
+          SI 개발 담당
+        description: | # this will include new lines to allow paragraphs
+          - 화재 감지 프로젝트
+          - 이상행동 탐지 프로젝트(최종 평가 1등 달성 -> 인천공항 시범 납품)
+          - 미상 물체 탐지 프로젝트
+
   - title: Experience
     layout: list
     content:

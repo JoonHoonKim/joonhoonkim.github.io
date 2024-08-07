@@ -166,7 +166,34 @@ content:
         caption: 2010.03 ~ 2013.02
         description: |
           - 이과 계열 졸업
-          
+
+  - title: 활동
+    layout: left
+    content:
+      - layout: top-left
+        title: 프로그래머스 인공지능 데브코스 5기 (중도 포기)
+        sub_title: 인공지능
+        caption: 2023.03 ~ 2023.07
+        description: |
+          - 프로그래머스에서 진행한 인공지능 데브코스에 선발되어서 활동
+          - 지난 기수들과는 다르게 취업자반이 따로 운영되지 않아서 중도 포기 결정함
+
+      - layout: top-left
+        title: 공공빅데이터 청년인턴십 2기
+        sub_title: 빅데이터
+        caption: 2020.08 ~ 2020.12
+        description: |
+          - 빅데이터 관련 교육
+          - 시청 소속으로 근무하여 빅데이터 프로젝트 진행
+
+      - layout: top-left
+        title: 멋쟁이 사자처럼 7기
+        sub_title: 웹
+        caption: 2019.01 ~ 2019.12
+        description: |
+          - 학교 내 동아리로 웹 프로그래밍 활동
+          - 웹 관련 교육과 프로젝트 진행
+          - 해커톤 진행
 
 # Footer
 footer_show_references: true

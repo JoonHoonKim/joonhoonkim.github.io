@@ -94,18 +94,30 @@ content:
           - 이상행동 탐지 프로젝트(최종 평가 1등 달성 -> 인천공항 시범 납품)
           - 미상 물체 탐지 프로젝트
 
-  - title: Experience
+  - title: 역량
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+      - layout: top-left
+        title: 프로젝트 매니징
+        sub_title: 행정 업무 및 WBS 관리
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - [2023.09 ~ Present, 무브멘토] commerce 프로젝트 관리 및 QA 업무
+          - [2023.09 ~ 2024.02, 무브멘토] 창업도약패키지 프로젝트 관리
+
+      - layout: top-left
+        title: 서비스 개발
+        sub_title: 신규 서비스 분석 및 개발
+        description: | # this will include new lines to allow paragraphs
+          - [2023.10 ~ Present, 무브멘토] 가상 모델 얼굴 swapping 서비스 개발
+          - [2023.01 ~ 2023.02, 넥스리얼] SAM 모델을 활용한 라벨링 서비스 개발
+          - [2022.09 ~ 2022.11, 넥스리얼] 사람의 이상행동 중 경로 이탈 탐지 서비스 개발
+          - [2022.08 ~ 2022.09, 넥스리얼] 차량 번호판 식별 서비스 개발
+          - [2022.05 ~ 2022.08, 넥스리얼] 사람의 이상행동 중 달리기 탐지 서비스 개발
+          - [2022.02 ~ 2022.05, 넥스리얼] 사람의 이상행동 중 싸움 탐지 서비스 개발
+          - [2022.01 ~ 2022.02, 넥스리얼] 사람 detection 및 key-point detection 개발
+          - [2021.05 ~ 2021.10, 넥스리얼] 불꽃 object detection 서비스 개발 
+          - [2021.03 ~ 2021.06, 넥스리얼] 불꽃 grid classficiation 서비스 개발
+
   - title: Education
     layout: list
     content:

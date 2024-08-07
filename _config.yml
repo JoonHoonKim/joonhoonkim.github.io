@@ -118,17 +118,37 @@ content:
           - [2021.05 ~ 2021.10, 넥스리얼] 불꽃 object detection 서비스 개발 
           - [2021.03 ~ 2021.06, 넥스리얼] 불꽃 grid classficiation 서비스 개발
 
-  - title: Education
+  - title: 기술 스택
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+      - layout: left
+        title: Vision AI
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          - python, Java, C++
+          - pyTorch, TensorFlow
+          - openCV
+          - numpy, pandas
+          - vscode, IntelliJ, pycharm
+
+      - layout: left
+        title: Gen AI
+        description: |
+          - stable diffusion, comfyUI, Midjourney
+          - photoshop
+
+      - layout: left
+        title: tools
+        description: |
+          - putty, tera term
+          - vi editor
+
+      - layout: left
+        title: collaboration
+        description: |
+          - slack, trello
+          - notion
+          
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
